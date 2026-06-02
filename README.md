@@ -68,7 +68,7 @@ Add Python to PATH
 
 ### 📦 مرحله سوم: نصب پکیج‌ها
 
-bash
+
 pip install PyQt5 jdatetime plyer convertdate
 
 ---
