@@ -89,7 +89,7 @@ ParsCalendar/
 
 ### ▶️ مرحله پنجم: اجرا
 
-bash
+
 python main.py
 
 ---
